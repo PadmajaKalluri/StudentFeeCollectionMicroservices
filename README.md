@@ -1,6 +1,6 @@
 # StudentFeeCollectionMicroservices
 
-**3.Project Overview**
+**1.Project Overview**
 A Spring Boot based microservices system designed to manage student records, collect school fees, and generate digital receipts using **Spring Boot 3.5.6**. The system demonstrates Domain Driven Design, RESTful API best practices, inter-service communication, and API documentation using Swagger.
 
 Features include:
@@ -138,7 +138,7 @@ Student Service	    8081
 Payment Service	    8082
 Receipt Service	    8083
 
-**Swagger URLs**
+**9.Swagger URLs**
 
 **Service**         **Url**
 student-service     http://localhost:8081/swagger-ui.html
@@ -147,7 +147,7 @@ payment-service     http://localhost:8082/swagger-ui.html
 
 receipt-service     http://localhost:8083/swagger-ui.html
 
-**10Optional Improvements** 
+**10.Optional Improvements** 
 
 we can add:
 
